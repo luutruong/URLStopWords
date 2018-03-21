@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.tl_URLStopWords_disallowWords" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Disallow words in URL]]></phrase>
+  <phrase title="option.tl_URLStopWords_maxWords" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Maximum of words in URL]]></phrase>
+  <phrase title="option_explain.tl_URLStopWords_disallowWords" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Each words should be separate by comma (","). Example: foo,bar]]></phrase>
+  <phrase title="option_explain.tl_URLStopWords_maxWords" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The number of words in URL. Set to 0 to disabled the limitation.]]></phrase>
+  <phrase title="option_group.tl_URLStopWords" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[tl] URL Stop Words]]></phrase>
+  <phrase title="option_group_description.tl_URLStopWords" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
+</phrases>

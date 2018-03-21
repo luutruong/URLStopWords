@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="tl_URLStopWords_disallowWords" edit_format="textbox" data_type="string">
+    <default_value/>
+    <relation group_id="tl_URLStopWords" display_order="1201"/>
+  </option>
+  <option option_id="tl_URLStopWords_maxWords" edit_format="spinbox" data_type="unsigned_integer">
+    <default_value>0</default_value>
+    <edit_format_params>min=0
+step=1</edit_format_params>
+    <relation group_id="tl_URLStopWords" display_order="101"/>
+  </option>
+</options>

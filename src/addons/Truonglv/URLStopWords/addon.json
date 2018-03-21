@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[tl] URL Stop Words",
+    "description": "Limit words and remove words in URL",
+    "version_id": 1001070,
+    "version_string": "1.0.10",
+    "dev": "Truonglv",
+    "dev_url": "http://nobita.me",
+    "faq_url": "",
+    "support_url": "https://xenforo.com/community/members/51180/",
+    "extra_urls": [],
+    "require": [],
+    "icon": ""
+}
